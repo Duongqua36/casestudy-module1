@@ -1,0 +1,53 @@
+body {
+    background-image: url("https://autonet.com.vn/dataimages/201303/original/images857020_253218_copy.jpg");
+
+    text-align: center;
+}
+
+
+button {
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 auto;
+    cursor: pointer;
+    font-size: 60px;
+    background-color: yellow;
+    color: black;
+    border-radius: 100px;
+}
+
+button:hover {
+    background-color: white;
+    transform: translateY(-3px);
+    box-shadow: 0 5px 20px rgba(0, 0, 0, .2);
+}
+
+button:active {
+    outline: none;
+    transform: translateX(-3px);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+    color: red;
+}
+
+#styleTime {
+    background-color: aquamarine;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
+}
+
+@keyframes example {
+    from {
+        background-color: red;
+    }
+    to {
+        background-color: yellow;
+    }
+}

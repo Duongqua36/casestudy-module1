@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de774012-8619-4440-a403-3fd2bf973c19" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/style1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Questions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/license-test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-quan-li/demo-function.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-quan-li/demo-function.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-quan-li/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/js/CannonBall.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/js/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/js/game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/js/obstacle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/js/start.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/js/tank.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C1220I1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C1220I1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai-tap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casestudy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../casestudy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casestudy2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../casestudy2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xmind/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1m0NbxjAJbIKCFskOfUAbbKL88x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../casestudy2/game.html" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de774012-8619-4440-a403-3fd2bf973c19" name="Default Changelist" comment="" />
+      <created>1608626623994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608626623994</updated>
+      <workItem from="1608626625058" duration="250000" />
+      <workItem from="1610718446133" duration="2254000" />
+      <workItem from="1610853528393" duration="1083000" />
+      <workItem from="1610865543452" duration="472000" />
+      <workItem from="1610930470736" duration="4303000" />
+      <workItem from="1610951667114" duration="972000" />
+      <workItem from="1610952774279" duration="1208000" />
+      <workItem from="1610955597633" duration="470000" />
+      <workItem from="1610956089688" duration="709000" />
+      <workItem from="1610977875885" duration="1482000" />
+      <workItem from="1611017957877" duration="3636000" />
+      <workItem from="1611038141186" duration="5534000" />
+      <workItem from="1611059380518" duration="473000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="401" y="142" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610865964129">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="401" y="142" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1610865964129" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610930527658">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1610930527658" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1611049049084">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1611049049084" />
+  </component>
+</project>
