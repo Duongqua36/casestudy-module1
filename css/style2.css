@@ -1,7 +1,8 @@
-/*body {*/
-/*    background-image: url("");*/
-/*    background-size: cover;*/
-/*}*/
+body {
+    background-image: url("https://image-us.eva.vn/upload/2-2019/images/2019-06-21/dan-hot-girl-xinh-dep-lam-phu-dau-dam-cuoi-lai-gay-ngo-ngang-voi-nhan-sac-that-2-1561091793-136-width640height427.jpg");
+    background-size: cover;
+
+}
 
 #point {
     width: 300px;
@@ -78,7 +79,11 @@ button:active {
     box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
     color: red;
 }
-.answer2 .answer1 .answer3 .answer4{
-    padding: 10px 80px;
+/*.answer2{*/
+/*    padding: 10px 80px;*/
 
+/*}*/
+.traloi{
+    width: 800px;
+    height: 50px;
 }

@@ -2,27 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de774012-8619-4440-a403-3fd2bf973c19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/style1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/Questions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/license-test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo-quan-li/demo-function.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo-quan-li/demo-function.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo-quan-li/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../game/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../game/js/CannonBall.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../game/js/constants.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../game/js/game.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../game/js/obstacle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../game/js/start.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../game/js/tank.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C1220I1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C1220I1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai-tap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../casestudy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../casestudy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../casestudy2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../casestudy2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xmind/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Questions.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/Questions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/license-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/license-test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1m0NbxjAJbIKCFskOfUAbbKL88x" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -52,6 +37,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../casestudy2/game.html" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -74,7 +60,11 @@
       <workItem from="1610977875885" duration="1482000" />
       <workItem from="1611017957877" duration="3636000" />
       <workItem from="1611038141186" duration="5534000" />
-      <workItem from="1611059380518" duration="473000" />
+      <workItem from="1611059380518" duration="6759000" />
+      <workItem from="1611104381524" duration="2694000" />
+      <workItem from="1611107198922" duration="2197000" />
+      <workItem from="1611109642241" duration="6578000" />
+      <workItem from="1611124810694" duration="1296000" />
     </task>
     <servers />
   </component>
@@ -90,9 +80,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1610930527658" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1611049049084">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1611116591749">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1611049049084" />
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1611116591749" />
   </component>
 </project>
