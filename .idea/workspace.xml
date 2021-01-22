@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de774012-8619-4440-a403-3fd2bf973c19" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style2.css" afterDir="false" />
@@ -35,7 +34,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../casestudy2/game.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -64,7 +63,11 @@
       <workItem from="1611104381524" duration="2694000" />
       <workItem from="1611107198922" duration="2197000" />
       <workItem from="1611109642241" duration="6578000" />
-      <workItem from="1611124810694" duration="1296000" />
+      <workItem from="1611124810694" duration="6054000" />
+      <workItem from="1611154422032" duration="1537000" />
+      <workItem from="1611190823557" duration="8687000" />
+      <workItem from="1611224213491" duration="596000" />
+      <workItem from="1611232683815" duration="3411000" />
     </task>
     <servers />
   </component>
@@ -80,9 +83,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1610930527658" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1611116591749">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1611197265720">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1611116591749" />
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1611197265720" />
   </component>
 </project>

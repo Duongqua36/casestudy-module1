@@ -18,13 +18,13 @@
     <div id="questionScreen" class="hide">
         <div id="question">Câu hỏi</div>
         <div id="answer">
-            <button id="answer_1" onclick="checkAnswer(this.id, this)" class="traloi">Câu trả lời 1</button>
+            <button id="answer_1" onclick="checkAnswer(this.id, this)" class="answer1">Câu trả lời 1</button>
             <br>
-            <button id="answer_2" onclick="checkAnswer(this.id, this)"class="traloi">Câu trả lời 2</button>
+            <button id="answer_2" onclick="checkAnswer(this.id, this)" class="answer1">Câu trả lời 2</button>
             <br>
-            <button  id="answer_3"  onclick="checkAnswer(this.id, this)" class="traloi">Câu trả lời 3</button>
+            <button  id="answer_3"  onclick="checkAnswer(this.id, this)" class="answer1">Câu trả lời 3</button>
             <br>
-            <button id="answer_4" onclick="checkAnswer(this.id, this)" class="traloi">Câu trả lời 4</button>
+            <button id="answer_4" onclick="checkAnswer(this.id, this)" class="answer1">Câu trả lời 4</button>
         </div>
     </div>
 </div>
@@ -33,6 +33,9 @@
 <script>
     document.getElementById('question').innerHTML = questions[0].content;
 </script>
-
+<audio autoplay>
+    <source src="audio/HoaNoKhongMau1-HoaiLam-6281704.mp3" >
+    Your browser does not support the audio element.
+</audio>
 </body>
 </html>

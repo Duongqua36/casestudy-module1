@@ -4,16 +4,6 @@ body {
 
 }
 
-#point {
-    width: 300px;
-    margin-top: 20px;
-    margin-left: 10px;
-    border-radius: 5px;
-    text-align: center;
-    color: yellow;
-    font-size: 30px
-}
-
 #styleTime {
     background-color: limegreen;
     font-size: 30px;
@@ -37,7 +27,7 @@ body {
 }
 
 #question {
-    background-color: powderblue;
+    background-color: pink;
     width: 80%;
     height: 90px;
     text-align: center;
@@ -49,9 +39,7 @@ body {
 
 #answer {
     width: 600px;
-    /*margin: 0px auto;*/
     text-align: center;
-
 }
 
 button {
@@ -70,20 +58,15 @@ button {
 button:hover {
     background-color: limegreen;
     transform: translateY(-10px);
-    box-shadow: 0 5px 20px rgba(0, 0, 0, .2);
 }
 
 button:active {
     outline: none;
     transform: translateX(-10px);
-    box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
     color: red;
 }
-/*.answer2{*/
-/*    padding: 10px 80px;*/
-
-/*}*/
-.traloi{
+.answer1{
     width: 800px;
     height: 50px;
+    margin-left: 200px;
 }
